@@ -1,0 +1,7 @@
+spring:
+  url: jdbc:postgresql//classdb.csvriryt3t5w.us-east-2.rds.amazonaws.com:5432/characters
+  hikari:
+    maximum-pool-size: 8
+      
+server:
+  port: 4000
