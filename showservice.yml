@@ -1,6 +1,6 @@
 server:
   port: 5000
   
-spring:
-  datasource:
-    url: jdbc:postgresql//classdb.csvriryt3t5w.us-east-2.rds.amazonaws.com:5432/shows
+#spring:
+#  datasource:
+#    url: jdbc:postgresql//classdb.csvriryt3t5w.us-east-2.rds.amazonaws.com:5432/shows
