@@ -1,7 +1,7 @@
 spring:
   datasource:
-  username: hibernate_role
-  password: top-secret
+    username: hibernate_role
+    password: top-secret
       
   jpa:
     hibernate:
