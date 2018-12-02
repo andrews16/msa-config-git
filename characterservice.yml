@@ -3,4 +3,4 @@ server:
   
 spring:
   datasource:
-    url: jdbc:postgresql://classdb.csvriryt3t5w.us-east-2.rds.amazonaws.com:5432/characters
+    url: jdbc:postgresql://classdb.csvriryt3t5w.us-east-2.rds.amazonaws.com:5432/hibernate
