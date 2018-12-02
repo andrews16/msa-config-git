@@ -4,18 +4,3 @@ server:
 spring:
   datasource:
     url: jdbc:postgresql//classdb.csvriryt3t5w.us-east-2.rds.amazonaws.com:5432/shows
-    hikari:
-      maximum-pool-size: 8
-    username: hibernate_role
-    password: top-secret
-      
-  jpa:
-    hibernate:
-      ddl-auto: update
-    database-platform: org.hibernate.dialect.postgreSQLDialect
-    properties:
-      hibernate:
-        show_sql: false
-        use_sql_comments: false
-        temp:
-          use_jdbc_metadata_default: false
