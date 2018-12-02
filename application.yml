@@ -1,6 +1,5 @@
 spring:
   datasource:
-    url: jdbc:postgresql//classdb.csvriryt3t5w.us-east-2.rds.amazonaws.com:5432/hibernate
     username: hibernate_role
     password: top-secret
       
